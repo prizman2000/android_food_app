@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="btn_bg_text">Get Started</string>
+    <string name="home_title">All Recipes</string>
+    <string name="category_name">Category name</string>
+    <string name="recipe_name">Dish Name</string>
+    <string name="_30_min">30 min</string>
+    <string name="_247_cals">247 cals</string>
+    <string name="_3_persons">3 persons</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="youtube">YOutube</string>
+</resources>
